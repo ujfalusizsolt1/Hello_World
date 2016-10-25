@@ -1,11 +1,11 @@
 import sys
 
 def insertname(incoming):
-    message = print("Hello ",incoming,"!", sep='')
+    message = print("Hello ", incoming, "!", sep='')
     return(message)
-    
+
 def generalmessage():
-    message="Hello World!"
+    message = "Hello World!"
     print(message)
 
 try:
